@@ -1,1 +1,2 @@
 # iot-security-system
+This project is a security system that captures photos of potential intruders and compares them to a database to determine if an alert should be send out to the user. This project utilizes Raspberry pi 3 to collect sensor information, OpenCV to handle facial recognition, Twilio API to do send SMS notification to user, AWS S3 to store the photos, React.js and Node.js for web application, AWS to host website. 
